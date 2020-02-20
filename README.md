@@ -12,4 +12,5 @@
 </table>
 
 - 해당 Repository는 위 책의 예제 실습을 따라한 연습 코드입니다.
+- http://bit.ly/fr-springboot
  
