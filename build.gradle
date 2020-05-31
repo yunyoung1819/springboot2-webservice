@@ -36,7 +36,7 @@ dependencies {
     compile('org.springframework.boot:spring-boot-starter-mustache')
     compile('org.springframework.session:spring-session-jdbc')  // 세션을 데이터베이스로 사용
     testCompile('org.springframework.boot:spring-boot-starter-test')
-    testCompile("org.springframework.security:spring-security-test")
+    testCompile('org.springframework.security:spring-security-test')    // 스프링 시큐리티 테스트 
 }
 
 dependencies {
